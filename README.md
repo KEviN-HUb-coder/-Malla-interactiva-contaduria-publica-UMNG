@@ -1,6 +1,3 @@
-# malla-interactiva-contaduria-publica
-Malla interactiva de contaduría para seguimiento de materias y prerrequisitos
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
